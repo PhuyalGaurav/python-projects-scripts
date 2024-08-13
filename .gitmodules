@@ -1,0 +1,42 @@
+[submodule "facebook-delete-script"]
+	path = facebook-delete-script
+	url = https://github.com/PhuyalGaurav/facebook-delete-script.git
+[submodule "WebCam Into CCTV with motion detection and port forwarding"]
+	path = WebCam Into CCTV with motion detection and port forwarding
+	url = https://github.com/PhuyalGaurav/Rumcamlyamlyam.git
+[submodule "Certificator (Streamlit)"]
+	path = Certificator (Streamlit)
+	url = https://github.com/PhuyalGaurav/certificator
+[submodule "Ticktactoe ai with minmax algorithm"]
+	path = Ticktactoe ai with minmax algorithm
+	url = https://github.com/PhuyalGaurav/tictactoe-minmax
+[submodule "Shortest Relationer (CS50ai)"]
+	path = Shortest Relationer (CS50ai)
+	url = https://github.com/PhuyalGaurav/shortest-relationer.git
+[submodule "simple cypher"]
+	path = simple cypher
+	url = https://github.com/PhuyalGaurav/simple-python-cypher.git
+[submodule "DSA Journey"]
+	path = DSA Journey
+	url = https://github.com/PhuyalGaurav/DSA-journey.git
+[submodule "Reddit Scraper & Facebook Autoposer (for pages)"]
+	path = Reddit Scraper & Facebook Autoposer (for pages)
+	url = https://github.com/PhuyalGaurav/facebook-auto-post.git
+[submodule "Social Media With Django"]
+	path = Social Media With Django
+	url = https://github.com/PhuyalGaurav/crasber.git
+[submodule "Certificator (CMD)"]
+	path = Certificator (CMD)
+	url = https://github.com/PhuyalGaurav/certificator-cmd.git
+[submodule "Img's Into GIF"]
+	path = Img's Into GIF
+	url = https://github.com/PhuyalGaurav/imgToGif.py.git
+[submodule "E-commerce with DRF & React"]
+	path = E-commerce with DRF & React
+	url = https://github.com/PhuyalGaurav/Pasali.git
+[submodule "Wikipedia (CS50w)"]
+	path = Wikipedia (CS50w)
+	url = https://github.com/PhuyalGaurav/wiki.git
+[submodule "Chemistry Quiz (CMD)"]
+	path = Chemistry Quiz (CMD)
+	url = https://github.com/PhuyalGaurav/chemistry_quiz.git
