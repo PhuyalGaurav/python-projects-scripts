@@ -40,3 +40,9 @@
 [submodule "Chemistry Quiz (CMD)"]
 	path = Chemistry Quiz (CMD)
 	url = https://github.com/PhuyalGaurav/chemistry_quiz.git
+[submodule "Mail Dashboard CS50w"]
+	path = Mail Dashboard CS50w
+	url = https://github.com/PhuyalGaurav/mail.git
+[submodule "3 line implementation of Rock, Paper, Sissiors"]
+	path = 3 line implementation of Rock, Paper, Sissiors
+	url = https://github.com/PhuyalGaurav/shortest-rps.git
