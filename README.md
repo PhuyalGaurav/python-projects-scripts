@@ -1,8 +1,6 @@
-# Project Name
 
-This project contains most of my Python scripts and projects. 
-You are free to use any of the code here for your own projects, Just be sure to star ⭐ the repo first. 
-Happy Ctrl + c, Ctrl + v ing :) .
+
+# This repo contains most of my Python scripts and projects. You are free to use any of the code here for your own projects, Just be sure to star ⭐ the repo first. 
 
 ## Table of Contents
 
